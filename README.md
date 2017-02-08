@@ -12,7 +12,7 @@ mkdir python_projects; cd python_projects
 
 git clone https://github.com/rronakk/movie_trailer.git
 
-cd {your_clone_directory_name}
+cd movie_trailer
 ```
 Thats it for installation part. you are all set to run this project
 
@@ -23,6 +23,6 @@ Once you are inside the directory of your project
 Run below command
 
 ```
-python entertainment_center.py
+python entertainment_center.py 
 ```
 Voila ! You see the trailer webpage opened up in your default browser
